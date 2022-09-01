@@ -12,3 +12,13 @@
 
 #### 界面设计：
 
+![](https://github.com/itcoderyhl/water-elec-bill/blob/main/images/1.png)
+
+![](https://github.com/itcoderyhl/water-elec-bill/blob/main/images/2.png)
+
+![](https://github.com/itcoderyhl/water-elec-bill/blob/main/images/3.png)
+
+![](https://github.com/itcoderyhl/water-elec-bill/blob/main/images/4.png)
+
+![](https://github.com/itcoderyhl/water-elec-bill/blob/main/images/5.png)
+
