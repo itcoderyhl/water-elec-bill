@@ -24,6 +24,7 @@
 - Layui
 - Jquery
 - Ajax
+- echarts
 
 ## 环境介绍
 
